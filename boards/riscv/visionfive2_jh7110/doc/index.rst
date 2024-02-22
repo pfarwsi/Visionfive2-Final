@@ -46,7 +46,7 @@ Flashing
 
 git clone the vf2-loader tool from https://github.com/orangecms/vf2-loader.git and xmodem tool from https://github.com/orangecms/xmodem.rs.git side by side. 
 
-#. VisionFive2 uses uart for flashing. Refer to `VisionFive2 Recovery Quick Start Guide here <https://doc-en.rvspace.org/VisionFive2/Quick_Start_Guide/VisionFive2_SDK_QSG/recovering_bootloader%20-%20vf2.html/>`_
+#. VisionFive2 uses uart for flashing. Refer to `VisionFive2 Recovery Quick Start Guide here <https://doc-en.rvspace.org/VisionFive2/Quick_Start_Guide/VisionFive2_SDK_QSG/recovering_bootloader%20-%20vf2.html>`_
    to connect your serial-to-usb converter. Now power on the board and using
    minicom access board's serial and press the reset switch on the board until you see CCCCCC... prompt
 
