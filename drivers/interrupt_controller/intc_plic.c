@@ -425,7 +425,7 @@ static int plic_init(const struct device *dev)
 	}
 
 	/* Configure IRQ for PLIC driver */
-	config->irq_config_func();
+	//config->irq_config_func();
 
 	return 0;
 }
